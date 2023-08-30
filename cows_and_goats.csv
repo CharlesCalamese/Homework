@@ -1,1 +1,3 @@
-"df = pd.DataFrame({'Cows': [12, 20], 'Goats': [22, 19]}, index=['Year 1', 'Year 2'])",,,,,,,,,,
+,Cows,Goats
+Year 1,12,22
+Year 2,20,19
